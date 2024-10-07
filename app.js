@@ -1,7 +1,7 @@
 
 
-//originally forgot to add the const at the beginning
-//also had some trouble figuring out "= arr ="
+// originally forgot to add the const at the beginning
+// also had some trouble figuring out "= arr ="
 
 const double = arr => arr.map((val) => val * 2)
 
