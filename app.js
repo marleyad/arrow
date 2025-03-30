@@ -3,7 +3,7 @@
 // also had some trouble figuring out "= arr =" 
 
 const double = arr => arr.map((val) => val * 2)
-
+ 
 //2nd challenge is a doozy
 
 // function squareAndFindEvens(numbers){
