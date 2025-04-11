@@ -4,7 +4,7 @@
 
 const double = arr => arr.map((val) => val * 2)
  
-//2nd challenge is a doozy
+//2nd challenge is a doozy 
 
 // function squareAndFindEvens(numbers){
 //     var squares = numbers.map(function(num){
